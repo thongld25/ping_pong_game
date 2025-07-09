@@ -138,5 +138,4 @@ hàm vòng lặp xử lý trò chơi
 
 ### KẾT QUẢ
 
-- Các ảnh chụp với caption giải thích.
-- Hoặc video sản phẩm
+- [Video demo sản phẩm](https://www.youtube.com/shorts/CLtyVU_6GYc)
